@@ -22,10 +22,10 @@ function loadJS () {
     document.querySelector("h1").innerHTML = "Draw!";
 
   } else if (diceeImgNumber_1 > diceeImgNumber_2) {
-    document.querySelector("h1").innerHTML = "Player 1 WINs!";
+    document.querySelector("h1").innerHTML = "🚩 Player 1 WINs!";
 
   } else { //(diceeImgNumber_1 < diceeImgNumber_2)
-    document.querySelector("h1").innerHTML = "Player 2 WINs!";
+    document.querySelector("h1").innerHTML = "🚩 Player 2 WINs!";
   }
   
 }
