@@ -1,0 +1,55 @@
+body {
+  background-color: #F1ECC3;
+}
+
+h1 {
+  color: #2C2E43;
+  font-family: Lobster;
+  font-size: 9rem;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 6%;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: 'Indie Flower';
+  font-size: 2rem;
+  padding-bottom: 2%;
+  margin-bottom: 0;
+  color: #2C2E43;
+}
+
+footer {
+  padding-top: 4%;
+}
+
+.main-container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.players-container {
+  width: 100%;
+}
+
+.player-1-container,
+.player-2-container {
+  text-align: center;
+  padding: 0;
+}
+
+.dicee-img {
+  width: 50%;
+}
+
+.footer-para,
+.copyright {
+  font-size: 0.75rem;
+  text-align: center;
+  color: #57837B;
+}
+
+.footer-para {
+  margin: 0;
+}
